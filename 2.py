@@ -4,7 +4,6 @@ Spyder Editor
 
 This is a temporary script file.
 """
-#1
 
 #2
 per1= int(input('Ingrese el dinero invertido por la primera persona: '))
