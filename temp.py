@@ -18,3 +18,4 @@ p3= (per3/total)*100
 print( "La persona 1 invirtió un %", p1)
 print("La persona 2 invirtió un %", p2)
 print( "La persona 3 invirtió un %", p3 ,"El valor total invertido es:", total)
+
